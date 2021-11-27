@@ -22,7 +22,7 @@ p {
 }
 
 #home {
-  padding: 3% 15% 7%;
+  padding: 20% 15% 7%;
   line-height: 2;
 }
 
@@ -37,19 +37,11 @@ p {
 /* Nav Bar */
 
 .logo {
-  width: 150px;
-}
-
-.navbar {
-  padding-bottom: 3.5rem;
+  width: 100px;
 }
 
 .navbrand {
   font-size: 2.5rem;
-}
-
-.navbar-nav {
-  margin-bottom: 30px;
 }
 
 .nav-item {
@@ -234,7 +226,7 @@ p {
 }
 
 .card-pack-image {
-  width: 60%;
+  width: 8rem;
   padding-top: 10px;
 }
 
