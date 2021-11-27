@@ -52,6 +52,7 @@ p {
   color: aliceblue;
   font-size: 1.2rem;
   color: rgba(255, 255, 255, 0.733);
+  line-height: 2.5rem;
 }
 
 .navlink:hover {
